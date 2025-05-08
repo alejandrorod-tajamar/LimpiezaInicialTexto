@@ -1,0 +1,13 @@
+ipykernel
+pandas
+matplotlib
+scipy
+statsmodels
+sympy
+seaborn
+# tensorflow
+tensorflow[and-cuda]
+pydot
+graphviz
+jinja2
+scikit-learn

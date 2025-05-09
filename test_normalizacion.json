@@ -1,0 +1,22 @@
+[
+  {
+    "input": "Ã‰ste es un buen móvil!!! No q'huvo fallos. #Duradero❤️",
+    "output": "este es un buen movil no que hubo fallos #duradero"
+  },
+  {
+    "input": "La cámara del celular funciona increÃ­ble pq tiene x lo menos 48MP",
+    "output": "la camara del celular funciona increible porque tiene por lo menos 48mp"
+  },
+  {
+    "input": "No c dnd encontrar el boton de encendido... #PÃ©simoManual😡",
+    "output": "no se donde encontrar el boton de encendido #pesimomanual😡"
+  },
+  {
+    "input": "C'est le meilleur tÃ©lÃ©phone que j'ai jamais eu!!!",
+    "output": "ce est le meilleur telephone que je ai jamais eu"
+  },
+  {
+    "input": "Can't believe how bad the battery life is on this phone!!!",
+    "output": "cannot believe how bad the battery life is on this phone"
+  }
+]
